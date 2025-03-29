@@ -1,10 +1,8 @@
 AWS Lambda Function for Deleting Unused EBS Snapshots
-
-Project Description
-
+✅ Project Description
 This AWS Lambda function is designed to automatically identify and delete unused Amazon Elastic Block Store (EBS) snapshots. The goal is to optimize storage costs by removing stale snapshots that are no longer associated with any active EC2 volumes or running instances.
 
- Features
+🔥 Features
 Automated Cleanup: Identifies and deletes EBS snapshots that are not linked to any volume or are linked to deleted volumes.
 
 Cost Optimization: Frees up unused storage, reducing unnecessary costs.
